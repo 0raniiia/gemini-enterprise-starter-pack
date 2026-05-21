@@ -116,10 +116,10 @@ Based on early user testing across pilot clients:
 ## Security & Privacy
 
 All use cases in this pack are designed for **Gemini Enterprise** licenses, which include:
-- ✅ No data used to train Google models
-- ✅ Data stays within your Google Workspace tenant
-- ✅ GDPR compliant · ISO 27001 · SOC 2 Type II certified
-- ✅ Admin-controlled access via Google Workspace console
+-  No data used to train Google models
+-  Data stays within your Google Workspace tenant
+-  GDPR compliant · ISO 27001 · SOC 2 Type II certified
+-  Admin-controlled access via Google Workspace console
 
 ---
 
